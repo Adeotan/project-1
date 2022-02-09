@@ -71,6 +71,5 @@ Step 5: Enabling php on your website
     Use the following command:
     sudo vim /etc/apache2/mods-enabled/dir.conf
                
-     
 ![test](./images/php-installed-on-your-website.png)
 
