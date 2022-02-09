@@ -15,7 +15,7 @@ Step 1b: Installing Apache2
        'sudo apt install apache2`
 ![test](./images/install-apache2.png) 
 
-Installing and Securing Mysql 
+Step 2:  Installing and Securing Mysql 
 
     Use the following command to install mysql 
        'sudo apt install mysql`
@@ -32,7 +32,6 @@ Installing and Securing Mysql
 
     Next, we need to install PHP, the final component in the LAMP stack.
 
-
     Step 3: Installing php
 
     We need to install the following 3 packages
@@ -41,7 +40,7 @@ Installing and Securing Mysql
 	3.php-mysql 
  
     Use the following command to install the 3 packages at once:
-    
+
     'sudo apt install php libapache2-mod-php php-mysql`
 
 ![test](./images/install-php.png)
