@@ -32,7 +32,7 @@ Step 2:  Installing and Securing Mysql
 
     Next, we need to install PHP, the final component in the LAMP stack.
 
-    Step 3: Installing php
+Step 3: Installing php
 
     We need to install the following 3 packages
 	1.Sudo apt install php 
