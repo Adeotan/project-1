@@ -51,7 +51,8 @@ Step 2:  Installing and Securing Mysql
 ![test](./images/php-version.png)
 
 Step 4: Creating a Virtual host for our website with Apache
-    Use the following command to :
+
+Use the following command to :
     
     1.Enable the new virtual host:
 	sudo a2ensite projectlamp
