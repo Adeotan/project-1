@@ -20,7 +20,7 @@ Installing and Securing Mysql
     Use the following command to install mysql 
        'sudo apt install mysql`
        
-![test](./images/install-mysql-secure.png)
+![test](./images/install-mysql-server.png)
 
 
     Use the following command to secure mysql:
