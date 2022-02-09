@@ -41,12 +41,14 @@ Installing and Securing Mysql
 	3.php-mysql 
  
     Use the following command to install the 3 packages at once:
+    
     'sudo apt install php libapache2-mod-php php-mysql`
 
 ![test](./images/install-php.png)
     
     Confirm php installation by using the following command: 
     php -v
+
 ![test](./images/php-version.png)
 
 Step 4: Creating a Virtual host for our website with Apache
@@ -68,9 +70,7 @@ Step 5: Enabling php on your website
         
     Use the following command:
     sudo vim /etc/apache2/mods-enabled/dir.conf
-    
- 
-      
-      
+               
+     
 ![test](./images/php-installed-on-your-website.png)
 
